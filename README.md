@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Manop
+# 👋 Hi there.
 
 I’m a **hobby website developer** with 2.5 years of self-study experience, building projects for fun and learning along the way.  
 I love crafting web and mobile applications, experimenting with new tools, and constantly improving my skills.
