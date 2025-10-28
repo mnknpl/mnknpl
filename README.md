@@ -21,12 +21,6 @@ I love crafting web and mobile applications, experimenting with new tools, and c
 
 ---
 
-## 🤝 My Workmate
-I often pair up with **ChatGPT** for ideas, debugging, and brainstorming.  
-Think of it as having a super patient coding buddy ☕💡.
-
----
-
 ## ☕ Interests
 - Coffee enthusiast (always hunting for the next great cup)  
 - Scuba diving lover 🤿🌊 (exploring the underwater world one dive at a time)
