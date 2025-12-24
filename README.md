@@ -1,6 +1,6 @@
 # 👋 Hi there.
 
-I’m a **hobby website developer** with 2.5 years of self-study experience, building projects for fun and learning along the way.  
+I’m a **hobby website developer** with 3 years of self-study experience, building projects for fun and learning along the way.  
 I love crafting web and mobile applications, experimenting with new tools, and constantly improving my skills.
 
 ---
@@ -31,5 +31,8 @@ I love crafting web and mobile applications, experimenting with new tools, and c
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/mnknpl)  
 
 ---
+
+## My works 
+https://www.cupster.club
 
 > “Code, Coffee, and Curiosity – the fuel that keeps me going.”
