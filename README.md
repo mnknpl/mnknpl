@@ -32,7 +32,4 @@ I love crafting web and mobile applications, experimenting with new tools, and c
 
 ---
 
-## My works 
-https://www.cupster.club
-
 > “Code, Coffee, and Curiosity – the fuel that keeps me going.”
